@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&locale=en" alt="thusithawijethunga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thusithawijethunga&" alt="thusithawijethunga" /></p>
+
+[Support Me On Patreon](https://patreon.com/thusithawijethunga?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
