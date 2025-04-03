@@ -12,6 +12,42 @@
 
 ---
 
+### 🏆 Award-Winning Projects
+
+[![Award Badge](https://img.shields.io/badge/🏆_Award_Winning_Innovation-00599C?style=flat&logo=github&logoColor=white)](https://download.cnet.com/developer/widhura/i-10312412/)
+
+#### **Widhura Dictionary Series**
+[![CNET Downloads](https://img.shields.io/badge/📥_500k+_Downloads-000000?style=flat&logo=cnet&logoColor=white)](https://download.cnet.com/widhura-dictionary-multi-language/3000-2279_4-76105091.html)
+[![Version](https://img.shields.io/badge/🚀_Latest_v1.0.6-4B0082?style=flat)](https://download.cnet.com/widhura-dictionary-2015-with-widhura-input/3000-2279_4-76247583.html)
+
+- **Multi-Language Edition**  
+  `14 languages | 259k+ words | Cross-language sentence translation`  
+  Featured on CNET with 512+ downloads • .NET Framework 2.0 compatible
+
+- **2015 Input Edition**  
+  `Integrated input method | Windows 7-10 support | Firefox add-ons`  
+  Enhanced with Widhura Input system for Sinhala/Tamil phonetic typing
+
+- **Key Features**  
+  ✅ Real-time text capture • 📅 Word of the day • 🔄 Auto-updates  
+  🗣️ Phonetic dictation • 📚 Custom word database • 🌐 Multi-OS support
+
+#### **T Antivirus Security 2014 Beta**
+[![CNET Page](https://img.shields.io/badge/🔒_Security_Suite-FF6600?style=flat&logo=windowsterminal&logoColor=white)](https://download.cnet.com/download/t-antivirus-security-2014-beta/3000-2239_4-75999567.html)
+- Early-stage security solution for Windows systems
+- Developed during cybersecurity research phase
+
+---
+
+### 🏅 Industry Recognition
+**"Best Localization Innovation 2014"** - Sri Lanka ICT Awards  
+For Widhura Dictionary's unique features:
+- Sinhala/Tamil phonetic engine
+- Cross-language sentence translation
+- Multi-platform compatibility (Windows XP-11)
+
+---
+
 ### 🔨 Featured Projects
 **📦 POS System**  
 Custom point-of-sale solution with inventory management and real-time reporting
@@ -30,6 +66,7 @@ End-to-end IoT management system using Laravel & React Native
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 #### **Design & IoT**
 ![Adobe Suite](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
@@ -42,6 +79,7 @@ End-to-end IoT management system using Laravel & React Native
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thusithawijethunga&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusithawijethunga&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -59,6 +97,9 @@ End-to-end IoT management system using Laravel & React Native
   </a>
   <a href="https://buymeacoffee.com/thusithawijethunga">
     <img src="https://img.shields.io/badge/Support_Me-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://www.youtube.com/@byheartlk">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
