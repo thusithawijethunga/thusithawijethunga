@@ -78,7 +78,6 @@ End-to-end IoT management system using Laravel & React Native
 ### 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thusithawijethunga&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusithawijethunga&layout=compact&theme=radical" />
 </p>
 
