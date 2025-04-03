@@ -1,31 +1,83 @@
-<h1 align="center">Hi 👋, I'm Thusitha</h1>
-<h3 align="center">A passionate fullstack web developer from Sri Lanka</h3>
+<h1 align="center">👋 Hi, I'm Thusitha Wijethunga</h1>
+<h3 align="center">Professional IT Consultant | Full Stack Developer | Tech Lead</h3>
+<p align="center">🇱🇰 Sri Lanka | BIT Student @ UMO | Certified Graphic Designer</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thusithawijethunga" alt="thusithawijethunga" /></a> </p>
+---
 
+### 🎓 Qualifications & Education
+- 🏅 **NVQ 4** Certified Graphic Designer
+- 📜 **NVQ 3** ICT Professional (RPL)
+- 📘 **HNDIT** Graduate 
+- 🎓 Pursuing **Bachelor of Information Technology (BIT)** @ UMO Sri Lanka
 
-- 🔭 I’m currently working on **IoT Device Store**
+---
 
-- 🌱 I’m currently learning **Laravel**
+### 🔨 Featured Projects
+**📦 POS System**  
+Custom point-of-sale solution with inventory management and real-time reporting
 
-- 📫 How to reach me **thusithawijethunga@gmail.com**
+**🛒 E-Commerce CMS**  
+Full-featured commerce platform with multi-vendor support and payment integrations
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/thusithawijethunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thusithawijethunga" height="30" width="40" /></a>
-<a href="https://twitter.com/thusithawijethunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thusithawijethunga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thusithawijethunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thusithawijethunga" height="30" width="40" /></a>
-<a href="https://fb.com/ithusithawijethunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ithusithawijethunga" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thusithawijethunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thusithawijethunga" height="30" width="40" /></a>
+**🚀 IoT Device Store** *(In Progress)*  
+End-to-end IoT management system using Laravel & React Native
+
+---
+
+### 🛠️ Tech Stack
+#### **Core Expertise**
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### **Design & IoT**
+![Adobe Suite](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thusithawijethunga&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thusithawijethunga&show_icons=true&locale=en&layout=compact" alt="thusithawijethunga" /></p>
+### 🌐 Connect & Collaborate
+<p align="left">
+  <a href="https://www.linkedin.com/in/thusitha-avinda-38445879">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://byheart.lk">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=atom&logoColor=white" />
+  </a>
+  <a href="mailto:thusithawijethunga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://buymeacoffee.com/thusithawijethunga">
+    <img src="https://img.shields.io/badge/Support_Me-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&locale=en" alt="thusithawijethunga" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thusithawijethunga&" alt="thusithawijethunga" /></p>
+### 📚 Open Source & Publications
+[![Tech Books](https://img.shields.io/badge/📚_My_Books-4285F4?style=for-the-badge&logo=amazon&logoColor=white)](https://books.byheart.lk)  
+_Technical guides & resources available on Amazon KDP_
 
-[Support Me On Patreon](https://patreon.com/thusithawijethunga?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+[![UI Library](https://img.shields.io/badge/🎨_UI_Library-4A154B?style=for-the-badge&logo=storybook&logoColor=white)](https://ui.byheart.lk)  
+_Extended Shadcn UI Components • Maintainer & Contributor_
+
+---
+
+### 🚀 Latest Project
+[![ByHeart.lk](https://img.shields.io/badge/Visit-ByHeart.lk-FF69B4?style=for-the-badge)](https://byheart.lk)  
+_E-commerce platform for heartfelt creations_
+
+---
+<p align="center">
+  <i>"Bridging business needs with technical solutions since 2012" 💼</i>
+</p>
