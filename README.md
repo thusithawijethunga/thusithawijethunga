@@ -128,9 +128,7 @@ _E-commerce platform for heartfelt creations_
 
 Higher National Diploma in Information Technology
 
-<video width="320" height="240" autoplay loop muted>
-  <source src="./hndit.mp4" type="video/mp4">
+<video width="720" height="480" autoplay loop muted>
+  <source src="https://raw.githubusercontent.com/thusithawijethunga/thusithawijethunga/refs/heads/master/hndit.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-![HndIT Logo](https://hndit.lk/wp-content/themes/hndit/assets/img/logo.png)
