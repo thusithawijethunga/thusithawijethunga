@@ -178,12 +178,26 @@ An early Windows security product developed during an independent cybersecurity 
 | NVQ Level 4 — Certified Graphic Designer | Certified |
 | NVQ Level 3 — ICT Professional through RPL | Certified |
 
+### HNDIT Journey
+
+<div align="center"> <video controls muted loop width="720">
+<source src="https://raw.githubusercontent.com/thusithawijethunga/thusithawijethunga/refs/heads/master/hndit.mp4" type="video/mp4">
+  Your browser does not support embedded video. <a href="https://raw.githubusercontent.com/thusithawijethunga/thusithawijethunga/refs/heads/master/hndit.mp4">Watch the HNDIT video</a>.
+</video>   
+
+
+<a href="https://raw.githubusercontent.com/thusithawijethunga/thusithawijethunga/refs/heads/master/hndit.mp4"><img src="https://img.shields.io/badge/Watch_HNDIT_Video-111827?style=for-the-badge&logo=github&logoColor=white" alt="Watch HNDIT video" /></a>
+
+</div>
+
 ---
 
 ## GitHub Activity
 
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Thusitha Wijethunga GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusithawijethunga&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" /> </div>
+<div align="center"> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Thusitha Wijethunga GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusithawijethunga&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" /> 
+</div>
 
 ---
 
