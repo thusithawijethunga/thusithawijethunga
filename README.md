@@ -1,114 +1,148 @@
 <div align="center">
 
-# 👋 Hi, I'm Thusitha Wijethunga
+# Thusitha Wijethunga
 
-### **Business-Focused IT Consultant · Full-Stack Developer · Tech Lead**
+### IT Consultant · Full-Stack Developer · Product Builder
 
-Building practical digital products for **e-commerce, recruitment, media, education, and business operations**.
+I build practical digital systems that help businesses **sell, operate, communicate and grow**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-widhura.lk-FF69B4?style=for-the-badge&logo=atom&logoColor=white)](https://widhura.lk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thusitha-avinda-38445879)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thusithawijethunga@gmail.com)
+[![Widhura IT Hub](https://img.shields.io/badge/WIDHURA_IT_HUB-Visit_website-111827?style=for-the-badge&logo=globe&logoColor=white)](https://widhura.lk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thusitha-avinda-38445879)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thusithawijethunga@gmail.com)
 
-🇱🇰 Sri Lanka · 🎓 BIT Student at UMO · 🎨 Certified Graphic Designer
+Sri Lanka · Widhura IT Hub · Software, Business Systems & Digital Products
 
 </div>
 
 ---
 
-## 🚀 What I Build
+## About
 
-I design and develop reliable, user-focused software systems that connect business goals with technology. My work includes multi-vendor marketplaces, recruitment platforms, content and media portals, customer-management systems, radio and television platforms, and education-focused applications.
+I am a Sri Lankan IT consultant and full-stack developer focused on turning real business requirements into dependable digital products. Through **Widhura IT Hub**, I work across software systems, business automation, e-commerce, media technology, digital presence, and technical support.
 
-- **Business platforms:** e-commerce, POS, CRM, inventory, and reporting systems
+My approach combines business understanding, product thinking, practical engineering, and thoughtful design. I work with organizations that need more than a website: they need systems that are useful, maintainable, and built to keep moving.
 
-- **Web applications:** scalable full-stack systems with clean user experiences
-
-- **Media products:** radio, television, streaming, and content platforms
-
-- **Product delivery:** from business idea and UX direction to development and launch
+> **Digital systems, made human.**
 
 ---
 
-## ⭐ Featured Products
+## What I Do
 
-### 🛒 [Kadapela LK](https://kadapela.lk) — Fast E-commerce System
-
-A Sri Lankan online marketplace built to make shopping simple, secure, and accessible across the island. The platform supports a broad product catalog, customer accounts, order tracking, secure payments, delivery workflows, wishlists, product comparison, warranty lookup, and affiliate features.
-
-**Focus:** E-commerce · Marketplace Operations · Payments · Order Management
-
-### 💼 [JobXP](https://jobxp.lk) — Job Seek & Recruitment Platform
-
-A complete job solution connecting job seekers with employers. JobXP includes job discovery, company and candidate profiles, instant applications, professional CV creation, employer job posting, application review, and location-based job browsing.
-
-**Focus:** Recruitment Technology · CV Builder · Employer Tools · Job Matching
-
-### 🛍️ [Hadawatha.lk](https://hadawatha.lk) — Sri Lankan Multi-vendor Marketplace
-
-A modern marketplace that connects buyers and sellers through product stores, wholesale listings, secure checkout, delivery and return support, affiliate opportunities, and a wide range of consumer categories.
-
-**Focus:** Multi-vendor Commerce · Wholesale · Seller Stores · Affiliate Commerce
-
----
-
-## 🌐 Digital Products & Platforms
-
-| Project | Description |
+| Capability | What it includes |
 | --- | --- |
-| [**Hadawatha FM**](https://fm.hadawatha.lk/) | A digital radio platform delivering Dhamma-focused audio content and an online listening experience. |
-| [**Hadawatha TV**](https://tv.hadawatha.lk/) | An online television and video platform for digital content distribution. |
-| [**Signal Xpress**](https://signalxpress.com/) | A digital platform focused on communication, information, and online services. |
-| [**Signal Xpress FM**](https://fm.signalxpress.com/) | Online radio experience for Signal Xpress listeners and digital media audiences. |
-| [**Widhura**](https://widhura.lk/) | A long-running technology and digital-product ecosystem associated with language, education, and media solutions. |
-| [**Widhura CRM**](https://crm.widhura.lk/) | Customer and business relationship management platform for organizing operational workflows. |
-| [**Widhura TV**](https://tv.hadawatha.lk/) | Digital video and television delivery within the wider media ecosystem. |
-| [**Widhura Jothi FM**](https://jothi-fm.widhura.lk/) | Online radio platform for the Jothi FM digital audience. |
-| [**Widhura Radio Udugama**](https://radio-udugama.widhura.lk/) | Online radio destination for Radio Udugama programming and listeners. |
-| [**Widhura E7th**](https://e7th.widhura.lk/) | A dedicated digital platform within the Widhura product ecosystem. |
-| [**Dreamz Lanka**](https://dreamzlanka.lk/) | A digital platform developed for Sri Lankan users and online service delivery. |
-| [**AppJuk**](https://appj.uk/) | App and digital product platform supporting mobile-first services. |
-| [**Kinoki**](https://kinoki.lk/) | A Sri Lankan digital platform for online content and service experiences. |
-
-> Project descriptions are intentionally concise and product-focused so this profile stays easy to scan. Visit each product to explore its current features.
+| **Software Systems** | Websites, mobile applications, APIs, dashboards, POS, HRM, ERP, CRM, and business automation |
+| **E-commerce & Operations** | Multi-vendor marketplaces, inventory, orders, payments, delivery workflows, reporting, and seller tools |
+| **Radio & Media Technology** | Live radio platforms, station pages, schedules, podcast pages, players, mobile experiences, and advertising platforms |
+| **Digital Presence** | Domains, hosting, business email, SEO, brand identity, social campaigns, and ongoing maintenance |
+| **Technical Support** | Computer repair, Windows setup, virus removal, upgrades, backups, and dependable local support |
 
 ---
 
-## 🏆 Recognition & Earlier Products
+## Selected Products
+
+### [Widhura IT Hub](https://widhura.lk)
+
+The central Widhura platform for software systems, business solutions, digital presence, computer services, and media technology. Widhura serves local businesses from its Udugama and Makandura hubs while delivering digital products beyond Sri Lanka.
+
+**Software systems · Business solutions · Computer services · Radio & media · Digital presence**
+
+### [Kadapela LK](https://kadapela.lk)
+
+A Sri Lankan online marketplace designed for convenient island-wide shopping. The platform includes product discovery, customer accounts, secure payments, delivery workflows, order tracking, product comparison, wishlists, warranty lookup, and affiliate features.
+
+**E-commerce · Marketplace operations · Payments · Order management**
+
+### [JobXP](https://jobxp.lk)
+
+A complete recruitment ecosystem connecting job seekers, companies, candidates, and opportunities. JobXP supports job discovery, professional CV creation, applications, employer job posting, candidate profiles, company pages, and location-based browsing.
+
+**Recruitment technology · CV builder · Employer tools · Job applications**
+
+### [Hadawatha.lk](https://hadawatha.lk)
+
+A multi-vendor marketplace connecting buyers and sellers through online stores, wholesale listings, consumer products, secure checkout, delivery and return support, and affiliate commerce.
+
+**Multi-vendor commerce · Wholesale · Seller stores · Affiliate commerce**
+
+### Widhura POS
+
+A practical point-of-sale and operations system for ambitious shops, covering sales, inventory, barcode workflows, reports, and staff operations.
+
+[Explore Widhura POS](https://pos.hadawatha.lk)
+
+### Widhura Dictionary
+
+The original multilingual Windows dictionary and input system, built around language technology, translation, Sinhala/Tamil phonetic typing, and a large multilingual word database.
+
+[Explore Widhura Dictionary](https://dictionary.widhura.lk)
+
+---
+
+## Widhura Digital Network
+
+### Media & Radio
+
+- [**Hadawatha FM**](https://fm.hadawatha.lk/) — Dhamma-focused digital radio and online listening platform.
+
+- [**Radio Udugama**](https://radio-udugama.widhura.lk/) — Online radio station platform for the Radio Udugama audience.
+
+- [**Jothi FM**](https://jothi-fm.widhura.lk/) — Digital radio destination for Jothi FM programming.
+
+- [**Signal Xpress FM**](https://fm.signalxpress.com/) — Online radio experience within the Signal Xpress network.
+
+- [**Hadawatha TV**](https://tv.hadawatha.lk/) — Online television and video platform for digital content distribution.
+
+### Business & Digital Platforms
+
+- [**Widhura CRM**](https://crm.widhura.lk/) — Customer and business relationship management workflows.
+
+- [**Widhura E7th**](https://e7th.widhura.lk/) — A dedicated digital platform within the Widhura product ecosystem.
+
+- [**Signal Xpress**](https://signalxpress.com/) — Digital platform for communication, information, and online services.
+
+- [**Dreamz Lanka**](https://dreamzlanka.lk/) — Sri Lankan digital platform for online services and user experiences.
+
+- [**AppJuk**](https://appj.uk/) — Mobile-first application and digital product platform.
+
+- [**Kinoki**](https://kinoki.lk/) — Sri Lankan digital platform for online content and services.
+
+---
+
+## Earlier Work & Recognition
 
 ### Widhura Dictionary Series
 
-A multilingual dictionary and language-technology product family previously featured through CNET, including a 14-language edition and the Widhura Input edition for Sinhala and Tamil phonetic typing.
+The Widhura Dictionary series was previously featured through CNET and included multilingual dictionary software and the Widhura Input edition.
 
-- **14 languages** and a large multilingual word database
+- Multilingual word database across **14 languages**
 
 - Cross-language sentence translation
 
-- Phonetic typing and input support
+- Sinhala and Tamil phonetic input support
 
-- Word of the day, real-time text capture, and automatic updates
+- Word of the day, text capture, and automatic updates
 
-- Windows compatibility and language-learning utilities
+- Windows-compatible language-learning utilities
 
-[![CNET Downloads](https://img.shields.io/badge/CNET-Featured-000000?style=flat&logo=cnet&logoColor=white)](https://download.cnet.com/developer/widhura/i-10312412/)
+[![CNET Featured](https://img.shields.io/badge/CNET-Featured-111111?style=flat&logo=cnet&logoColor=white)](https://download.cnet.com/developer/widhura/i-10312412/)
 
 ### T Antivirus Security 2014 Beta
 
-An early-stage Windows security product developed during an independent cybersecurity research phase.
+An early Windows security product developed during an independent cybersecurity research phase.
 
-[![Security Project](https://img.shields.io/badge/Security-Research_Project-FF6600?style=flat&logo=windowsterminal&logoColor=white)](https://download.cnet.com/download/t-antivirus-security-2014-beta/3000-2239_4-75999567.html)
+[View project](https://download.cnet.com/download/t-antivirus-security-2014-beta/3000-2239_4-75999567.html)
 
 ### Industry Recognition
 
 **Best Localization Innovation 2014 — Sri Lanka ICT Awards**
 
-Recognized for the Widhura Dictionary’s Sinhala/Tamil phonetic engine, cross-language translation capabilities, and multi-platform language technology.
+Recognized for the Widhura Dictionary’s Sinhala/Tamil phonetic engine, cross-language translation, and multi-platform language technology.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology
 
-### Core Development
+### Application Development
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -116,60 +150,58 @@ Recognized for the Widhura Dictionary’s Sinhala/Tamil phonetic engine, cross-l
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-### Design, IoT & Product Engineering
+### Product & Systems Engineering
+
+REST APIs · Admin dashboards · Payment integrations · Inventory systems · Reporting · Responsive interfaces · Mobile-first workflows · Business automation · Hosting and maintenance
+
+### Design & Connected Devices
 
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
 
-**Additional product experience:** REST APIs · Admin dashboards · Payment integrations · Inventory management · Reporting systems · Responsive UI · Mobile-first workflows
-
 ---
 
-## 🎓 Education & Qualifications
+## Education & Qualifications
 
-- **Bachelor of Information Technology (BIT)** — University of Moratuwa, Sri Lanka *(in progress)*
+- **Bachelor of Information Technology (BIT)** — in progress
 
 - **Higher National Diploma in Information Technology (HNDIT)**
 
 - **NVQ Level 4** — Certified Graphic Designer
 
-- **NVQ Level 3** — ICT Professional (RPL)
+- **NVQ Level 3** — ICT Professional through RPL
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&hide_border=true&theme=radical" alt="Thusitha's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusithawijethunga&layout=compact&hide_border=true&theme=radical" alt="Most used programming languages" /> </div>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&hide_border=true&theme=github_dark" alt="Thusitha Wijethunga GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusithawijethunga&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" /> </div>
 
 ---
 
-## 🤝 Connect & Collaborate
+## Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/thusitha-avinda-38445879"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://widhura.lk"><img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=atom&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:thusithawijethunga@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://widhura.lk"><img src="https://img.shields.io/badge/Widhura_IT_Hub-Website-111827?style=for-the-badge&logo=globe&logoColor=white" alt="Widhura IT Hub" /></a>
+  <a href="https://www.linkedin.com/in/thusitha-avinda-38445879"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:thusithawijethunga@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.youtube.com/@byheartlk"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://buymeacoffee.com/thusithawijethunga"><img src="https://img.shields.io/badge/Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support my work" /></a>
 </p>
 
-### 📚 More from ByHeart
+### More from Widhura
 
-- [Technical books and resources](https://books.widhura.lk)
+- [Widhura IT Hub](https://widhura.lk)
 
-- [UI component library](https://ui.widhura.lk)
+- [Widhura CRM](https://crm.widhura.lk)
 
-- [ByHeart e-commerce platform](https://ecommerce.widhura.lk)
+- [Widhura Dictionary](https://dictionary.widhura.lk)
 
----
+- [Widhura POS](https://pos.hadawatha.lk)
 
 <div align="center">
 
-> **Bridging business needs with technical solutions since 2012.**
+> **Building technology that keeps businesses moving.**
 
-</div>
- removed.
-
-- The HNDIT line was kept generic because the original README did not provide a verified institute name.
+</div> <!-- Profile README: github.com/thusithawijethunga/thusithawijethunga -->
