@@ -194,11 +194,7 @@ An early Windows security product developed during an independent cybersecurity 
 
 ## GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thusithawijethunga&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusithawijethunga&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-</div>
-<br />
+
 <div align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=thusithawijethunga&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </div>
