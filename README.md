@@ -6,7 +6,7 @@
 
 Building dependable digital systems for **commerce, business operations, recruitment, media, and education**.
 
-<a href="https://widhura.lk"><img src="https://img.shields.io/badge/WIDHURA_IT_HUB-111827?style=for-the-badge&logo=globe&logoColor=white" alt="Widhura IT Hub" /></a>
+<a href="https://widhura.lk"><img src="https://img.shields.io/badge/WIDHURA_IT-111827?style=for-the-badge&logo=globe&logoColor=white" alt="Widhura IT" /></a>
 <a href="https://www.linkedin.com/in/thusitha-avinda-38445879"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:thusithawijethunga@gmail.com"><img src="https://img.shields.io/badge/CONTACT-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 
@@ -24,7 +24,7 @@ Building dependable digital systems for **commerce, business operations, recruit
 
 I am a Sri Lankan IT consultant and full-stack developer focused on transforming real-world business requirements into useful, maintainable, and scalable digital products.
 
-Through [**Widhura IT Hub**](https://widhura.lk), I work across application development, business automation, e-commerce, media technology, digital presence, and technical support. My work combines business understanding, product thinking, practical engineering, and thoughtful design.
+Through [**Widhura IT**](https://widhura.lk), I work across application development, business automation, e-commerce, media technology, digital presence, and technical support. My work combines business understanding, product thinking, practical engineering, and thoughtful design.
 
 > **Digital systems, made human.**
 
@@ -71,7 +71,7 @@ Domains, hosting, business email, SEO, brand identity, maintenance, computer rep
 
 ## Selected Products
 
-### 01 · [Widhura IT Hub](https://widhura.lk)
+### 01 · [Widhura IT](https://widhura.lk)
 
 The central Widhura platform for software systems, business solutions, computer services, digital presence, and radio/media technology. Widhura supports local businesses from its Udugama and Makandura hubs while delivering digital products beyond Sri Lanka.
 
@@ -95,7 +95,7 @@ A multi-vendor marketplace connecting buyers and sellers through online stores, 
 
 `Multi-vendor Commerce` `Wholesale` `Seller Stores` `Affiliate Commerce`
 
-### 05 · [Widhura POS](https://pos.hadawatha.lk)
+### 05 · [Widhura POS](https://pos.widhura.lk)
 
 A practical point-of-sale and operations system for ambitious shops, covering sales, inventory, barcode workflows, reports, and staff operations.
 
