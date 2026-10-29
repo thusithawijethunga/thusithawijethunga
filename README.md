@@ -180,15 +180,7 @@ An early Windows security product developed during an independent cybersecurity 
 
 ### HNDIT Journey
 
-<div align="center"> <video controls muted loop width="720">
-<source src="https://raw.githubusercontent.com/thusithawijethunga/thusithawijethunga/refs/heads/master/hndit.mp4" type="video/mp4">
-  Your browser does not support embedded video. <a href="https://raw.githubusercontent.com/thusithawijethunga/thusithawijethunga/refs/heads/master/hndit.mp4">Watch the HNDIT video</a>.
-</video>   
-
-
-<a href="https://raw.githubusercontent.com/thusithawijethunga/thusithawijethunga/refs/heads/master/hndit.mp4"><img src="https://img.shields.io/badge/Watch_HNDIT_Video-111827?style=for-the-badge&logo=github&logoColor=white" alt="Watch HNDIT video" /></a>
-
-</div>
+[![Watch the video](https://i.ytimg.com/vi/8dHoghZYkeE/maxresdefault.jpg)](https://youtu.be/8dHoghZYkeE)
 
 ---
 
